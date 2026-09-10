@@ -100,9 +100,7 @@ Kemudian lanjutkan ke file Python berikutnya sesuai alur program.
           mendapatkan PDF asli.
 ```
 
-## ⚠️ Catatan
 
-Project ini dibuat untuk **pembelajaran dan penelitian/skripsi di bidang kriptografi**. Implementasi algoritma dibuat secara manual untuk memahami proses kerja algoritma dan tidak dimaksudkan sebagai pengganti library kriptografi yang telah diaudit untuk sistem produksi.
 
 ## 👨‍💻 Author
 
